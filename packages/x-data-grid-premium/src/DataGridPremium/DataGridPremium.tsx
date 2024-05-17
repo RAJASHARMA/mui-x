@@ -1060,3 +1060,4 @@ DataGridPremiumRaw.propTypes = {
    */
   treeData: PropTypes.bool,
 } as any;
+      
